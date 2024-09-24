@@ -194,6 +194,7 @@ INSTALLED_APPS = (
     "allauth.socialaccount.providers.feishu",
     "allauth.usersessions",
     "allauth.headless",
+    "allauth.phoneaccount",
 )
 
 AUTHENTICATION_BACKENDS = (
