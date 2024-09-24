@@ -195,6 +195,7 @@ INSTALLED_APPS = (
     "allauth.usersessions",
     "allauth.headless",
     "allauth.phoneaccount",
+    "sms",
 )
 
 AUTHENTICATION_BACKENDS = (
